@@ -1,0 +1,8 @@
+Este es un documento de texto tranquilo para probar git
+
+
+ola
+
+Agregamos mas texto para poder utlixar un nuevo comando  muy bonito :
+
+Agregamos mas texto para poder utlixar un nuevo comando  muy bonito :p
