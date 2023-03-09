@@ -14,3 +14,5 @@ Haremos un cambio desde la nueva rama y veremos que pasa
 
 Ultima linea de codigo para u commit
 
+editando desde una nueva branch desde github :v
+
